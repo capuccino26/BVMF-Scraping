@@ -116,7 +116,7 @@ CVM (Comissão de Valores Mobiliários - freely translated as "Securities and Ex
 
 ## How-to
 * The user inserts the CVM codes from the desired companies;
-* The user inserts the desired dates in years, separeated by commas:
+* The user inserts the desired dates, in years, separeated by commas:
   * If the user desires to get all the available dates this field must be left empty.
 * The following confirmating messages will show accordingly:
   * CVM code valid/invalid.
