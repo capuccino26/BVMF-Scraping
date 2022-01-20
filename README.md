@@ -27,7 +27,7 @@ A CVM (Comissão de Valores Mobiliários) é responsável pelo funcionamento do 
   * Código CVM válido/inválido.
   * Listagem de datas: total ou inseridas pelo usuário.
   * Confirmação do modelo de formulário antigo/novo de acordo com o obtido da BVMF.
-  * Confirmação da ausência de dados para informações individuais, ano específico, empresa específica.
+  * Confirmação da ausência de dados para informações individuais, ano específico ou empresa específica.
   * Confirmação do não carregamento da página por instabilidade da BVMF.
   * Confirmação de finalização para cada empresa.
   * Confirmação de finalização geral.
