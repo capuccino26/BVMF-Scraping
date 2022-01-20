@@ -126,5 +126,5 @@ CVM (Comissão de Valores Mobiliários - freely translated as "Securities and Ex
   * Confirmation of failure to load page due to BVMF instability.
   * Confirmation for completion of individual company.
   * Confirmation for general completion.
-* For the successfully scraped data the a new folder will be generated named "BVMF" with each company listed individually.
+* For the successfully scraped data a new folder will be generated named "BVMF" with each company listed individually.
 * Each company have the raw data in ".xlsx" format and the plots of relevant data.
