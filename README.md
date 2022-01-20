@@ -100,7 +100,7 @@ Finalizado.
   
   * Gráficos gerados:
   
-  ![alt text](https://i.imgur.com/xdM2BDL.png)
+  ![alt text](https://i.imgur.com/IipYYsk.png)
 
 # EN-US
 ## About
