@@ -115,7 +115,7 @@ Scraping and managing data for brazilian (B3) stocks from BVMF-B3 website.
 CVM (Comissão de Valores Mobiliários - freely translated as "Securities and Exchange Commission") is responsible for the regiment of the brazilian stock market, being directly responsible for the listing of companies, thus, defining their codes, which are used here for the identification and search for scraping. The codes can be found [here](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAb.aspx?TipoConsult=c).
 
 ## How-to
-* The user inserts the CVM codes from the desired companies;
+* The user inserts the CVM codes of the desired companies;
 * The user inserts the desired dates, in years, separeated by commas:
   * If the user desires to get all the available dates this field must be left empty.
 * The following confirmating messages will show accordingly:
