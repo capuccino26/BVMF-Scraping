@@ -38,7 +38,7 @@ A CVM (Comissão de Valores Mobiliários) é responsável pelo funcionamento do 
 * O site da B3 encontra instabilidades constantemente, o que prejudica a raspagem de dados. Entretanto, os dados podem ser coletados individualmente posteriormente para datas faltantes por instabilidade.
 
 # Exemplo
-  * Usuário insere os códigos: Códigos CVM separados por vírgula:  23264,9512
+  * Usuário insere os códigos: 23264,9512
   * Usuário insere as datas/não insere nada para todas as datas serem buscadas:
   * Exemplo de output:
   ```
