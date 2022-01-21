@@ -23,6 +23,7 @@ A CVM (Comissão de Valores Mobiliários) é responsável pelo funcionamento do 
 * O usuário insere os códigos CVM das empresas que deseja buscar;
 * O usuário insere o período em anos, separados por vírgula, que deseja buscar:
   * Caso queira buscar todos os anos disponíveis o usuário deverá deixar este campo vazio.
+* O usuário insere se deseja ou não manter os arquivos brutos;
 * As seguintes mensagens de confirmação serão exibidas com o andamento do programa:
   * Código CVM válido/inválido.
   * Listagem de datas: total ou inseridas pelo usuário.
@@ -122,6 +123,7 @@ CVM (Comissão de Valores Mobiliários - freely translated as "Securities and Ex
 * The user inserts the CVM codes of the desired companies;
 * The user inserts the desired dates, in years, separeated by commas:
   * If the user desires to get all the available dates this field must be left empty.
+* The user inserts if the raw data should be kept (type "SIM" for keep);
 * The following confirmating messages will show accordingly:
   * CVM code valid/invalid.
   * Dates listed: total or inserted by user.
