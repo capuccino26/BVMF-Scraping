@@ -34,6 +34,10 @@ A CVM (Comissão de Valores Mobiliários) é responsável pelo funcionamento do 
 * Para os dados extraídos com sucesso será gerada uma nova pasta em Path chamada "BVMF" onde cada empresa será listada separadamente.
 * Cada empresa possui os arquivos brutos no formato ".xlsx" e gráficos com dados relevantes.
 
+### Obtendo códigos de arquivo excel
+* Para maior facilidade do usuário, a versão alternativa "BVMF_SCRAPING_FROMEXCEL" foi criada, nesta versão é possível criar um arquivo com os códigos desejados e o programa irá buscar por todos de uma vez, sem a necessidade de digitar.
+* Nesta versão existe uma nova caixa de diálogo onde o usuário deverá digitar o nome do arquivo com os códigos localizado no Path, com os códigos na primeira coluna como no exemplo "CÓDIGOS_CVM" anexado.
+
 ## Observações
 * O site da B3 encontra instabilidades constantemente, o que prejudica a raspagem de dados. Entretanto, os dados podem ser coletados individualmente posteriormente para datas faltantes por instabilidade.
 
@@ -128,3 +132,7 @@ CVM (Comissão de Valores Mobiliários - freely translated as "Securities and Ex
   * Confirmation for general completion.
 * For the successfully scraped data a new folder will be generated named "BVMF" with each company listed individually.
 * Each company have the raw data in ".xlsx" format and the plots of relevant data.
+
+### Obtaining CVM codes from excel file
+* For an easier use the alternative version "BVMF_SCRAPING_FROMEXCEL" has been released, in which it iss possible to gather the CVM codes directly from an excel file in the Path directory, with each code in one line of the first column, similar to the attached example "CÓDIGOS_CVM".
+* In this version a new popup will be shown asking the name of the file in the Path folder (CÓDIGOS_CVM in the example).
