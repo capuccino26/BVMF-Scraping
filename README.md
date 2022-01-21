@@ -137,4 +137,4 @@ CVM (Comissão de Valores Mobiliários - freely translated as "Securities and Ex
 
 ### Obtaining CVM codes from excel file
 * For an easier use the alternative version "BVMF_SCRAPING_FROMEXCEL" has been released, in which it is possible to gather the CVM codes directly from an excel file in the Path directory, with each code in one line of the first column, similar to the attached example "CÓDIGOS_CVM".
-* In this version a new popup will be shown asking the name of the file in the Path folder (CÓDIGOS_CVM in the example).
+* In this version a new popup will be shown asking the name of the file in the Path folder ("CÓDIGOS_CVM" in the example).
