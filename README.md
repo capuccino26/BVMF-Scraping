@@ -7,6 +7,9 @@
   </a>
   </div>
   
+# Obsoleto
+O site da B3 foi alterado em fevereiro de 2022, os dados anteriores a 2010 foram bloqueados pelo sistema ENAT, desta forma, o código não será modificado para a nova versão.
+
 # PT-BR
 ## Sobre
 Raspagem e manipulação de dados para ações brasileiras utilizando dados do site da BVMF-B3.
